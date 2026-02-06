@@ -65,6 +65,9 @@ You can change the colors of your site easily.
 
 == Changelog ==
 
+= 1.8.0, Dec 17 2025 =
+* WordPress 6.9 compatibility.
+
 = 1.7.9, Apr 30 2024 =
 * Minor bugfixes and improvements.
 
